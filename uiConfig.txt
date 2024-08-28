@@ -1,0 +1,7 @@
+com.ericsson.eniq.events eniq_events_ui CXC1730809
+com.ericsson.eniq eniq_events_shared_model CXA1105500
+com.ericsson.gwt common CXA1105550
+com.ericsson.gwt widget CXA1105549
+com.ericsson.eniq.events highcharts CXA1105554
+com.ericsson.eniq.events sessionbrowser CXA1105552
+com.ericsson.eniq.events kpianalysis CXA1105553
